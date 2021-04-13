@@ -1,5 +1,5 @@
 ### Hi there 👋
-|✨My State Card✨|
+|✨My Stats Card✨|
 |:---:|
 |![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nunu-0&show_icons=true&theme=buefy)|
 
