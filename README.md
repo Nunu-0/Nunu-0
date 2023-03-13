@@ -22,7 +22,7 @@
   
   ## ✨Activity Graph✨
     
-  [![Nunu-0's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nunu-0&hide_title=true&bg_color=fffff&line=F0C6FF&point=60369C&radius=16)](https://github.com/Nunu-0/github-readme-activity-graph)
+  [![Nunu-0's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nunu-0&hide_title=true&bg_color=fffff&line=E1D3F2&point=60369C&radius=16)](https://github.com/Nunu-0/github-readme-activity-graph)
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&theme=buefy&height=80&section=footer)
 </div>
