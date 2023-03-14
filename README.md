@@ -16,7 +16,7 @@
   
   ## ✨My Stats Card✨
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nunu-0&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nunu-0&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nunu-0&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nunu-0&theme=buefy&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
   </br>
   
